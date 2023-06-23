@@ -1,0 +1,48 @@
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.exe.config
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.exe
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.pdb
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.AssemblyReference.cache
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.SuggestedBindingRedirects.cache
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\MainWindow.g.cs
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\App.g.cs
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF_MarkupCompile.cache
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF_MarkupCompile.lref
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\MainWindow.baml
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.g.resources
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.Properties.Resources.resources
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.GenerateResource.cache
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.CoreCompileInputs.cache
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.exe
+A:\Информационные папки\Шаг\C#\C# Взаимодействие с Windows\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.pdb
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.AssemblyReference.cache
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.SuggestedBindingRedirects.cache
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\MainWindow.g.cs
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\App.g.cs
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF_MarkupCompile.cache
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF_MarkupCompile.lref
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.exe
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.pdb
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.exe.config
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.exe
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.pdb
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\MainWindow.baml
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.g.resources
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.Properties.Resources.resources
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.GenerateResource.cache
+A:\Информационные папки\Шаг\C#\FrameWork\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.exe.config
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.exe
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\bin\Debug\DZ11WPF.pdb
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF_MarkupCompile.cache
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF_MarkupCompile.lref
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.g.resources
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.Properties.Resources.resources
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.exe
+C:\Users\user\Desktop\DZ11WPF\DZ11WPF\obj\Debug\DZ11WPF.pdb

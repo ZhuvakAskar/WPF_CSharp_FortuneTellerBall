@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_FortuneTellerBall", "DZ11WPF\WPF_FortuneTellerBall.csproj", "{0742C1D5-FE54-4E87-8CAF-2A1435213117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0742C1D5-FE54-4E87-8CAF-2A1435213117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0742C1D5-FE54-4E87-8CAF-2A1435213117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0742C1D5-FE54-4E87-8CAF-2A1435213117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0742C1D5-FE54-4E87-8CAF-2A1435213117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D068DDB-E560-4ACE-84CE-38FC1763C356}
+	EndGlobalSection
+EndGlobal
